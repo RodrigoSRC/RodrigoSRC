@@ -1,7 +1,7 @@
 ### Opa! Eu sou o Rodrigo Simões.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSRC&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSRC&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSRC&layout=compact&langs_count=16&theme=dracula)
 
 
 <div style="display: inline_block"><br>
