@@ -1,4 +1,4 @@
-## Opa! Eu sou o Rodrigo Simões.
+## Oi, Eu sou o ~~Goku~~ Rodrigo Simões!
 
 <br>
 <a href="https://github.com/RodrigoSRC/github-readme-stats">
