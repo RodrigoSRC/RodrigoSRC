@@ -6,7 +6,7 @@
 </a>
 <br>
 <a href="https://github.com/RodrigoSRC/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoSRC&layout=compact&langs_count=8&card_width=320" />
+  <img height=202 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoSRC&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <br>
@@ -22,7 +22,7 @@
   <img align="center" alt="Rodrigo-PostgreSQL" height="50" width="50" src="https://camo.githubusercontent.com/2facb89b414f4beb89250ff00956b210e030d79c1c78489e555fc2921e158b8a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
   <img align="center" alt="Rodrigo-Node" height="50" width="50" src="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667">
 
-  <img align="right" src="https://github.com/RodrigoSRC/RodrigoSRC/assets/119067272/bcaa1078-19fb-4a9b-baad-f2c2264287e2" alt="GIF" width="130"/>
+  <img align="right" src="https://github.com/RodrigoSRC/RodrigoSRC/assets/119067272/bcaa1078-19fb-4a9b-baad-f2c2264287e2" alt="GIF" width="200"/>
 </div>
 
 
