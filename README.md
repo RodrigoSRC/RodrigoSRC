@@ -19,9 +19,9 @@
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rodrigo-PostgreSQL" height="30" width="40" src="https://camo.githubusercontent.com/2facb89b414f4beb89250ff00956b210e030d79c1c78489e555fc2921e158b8a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
   <img align="center" alt="Rodrigo-Node" height="30" width="40" src="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667">
-  
-  <img align="center" alt="Rodrigo-GIF" height="30" width="40" src="https://camo.githubusercontent.com/0c17cc7279b7f18bc8ac3d69536a98dde751bd1977a3ccd88d123d048b27bdff/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2d776f72646d61726b2e737667">
-  <img align="center" alt="Rodrigo-GIF" src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" />
+  <p align="right">
+    <img src="https://github.com/RodrigoSRC/RodrigoSRC/assets/119067272/9427d9ac-0493-44cd-ba90-837a3cb13722" alt="GIF" width="300"/>
+  </p>
 </div>
 
 
