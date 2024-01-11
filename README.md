@@ -1,12 +1,15 @@
-### Opa! Eu sou o Rodrigo Simões.
+## Opa! Eu sou o Rodrigo Simões.
 
-##
+<br>
 <a href="https://github.com/RodrigoSRC/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoSRC" />
 </a>
+<br>
 <a href="https://github.com/RodrigoSRC/convoychat">
-  <img height=250 align="center" margin-bottom="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoSRC&layout=compact&langs_count=8&card_width=320" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoSRC&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<br>
 
 
 <div style="display: inline_block"><br>
@@ -24,8 +27,8 @@
 
 
 ##
- 
-<div style="margin-top: 20px;">
+ <br>
+<div>
   <a href="https://wa.me/5521980149839?text=${encodeURIComponent(Opa Rodrigo, estou entrando em contato pelo seu site. Vamos codar?)}" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/yo_rodrigo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:clancoto2015@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
