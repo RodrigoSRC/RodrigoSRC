@@ -1,13 +1,6 @@
 ## Oi, eu sou o ~~Goku~~ Rodrigo Simões!
 
 <br>
-<a href="https://github.com/RodrigoSRC/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoSRC&langs_count=32" />
-</a>
-<br>
-<a href="https://github.com/RodrigoSRC/convoychat">
-  <img height=202 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoSRC&layout=compact&langs_count=32&card_width=320" />
-</a>
 
 <br>
 
