@@ -49,8 +49,8 @@ Foco em desenvolvimento de APIs e aplicações web com arquitetura modular, test
 ## GitHub stats
 
 <div>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoSRC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoSRC&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoSRC&theme=github_dark" alt="GitHub Stats" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoSRC&theme=github_dark" alt="Top Langs" />
 </div>
 
 <picture>
