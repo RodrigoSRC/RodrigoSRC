@@ -9,7 +9,7 @@ Foco em desenvolvimento de APIs e aplicações web com arquitetura modular, test
 - Atualmente atuo como Desenvolvedor Freelancer, entregando solucoes web e mobile sob demanda.
 - Experiência prática com NestJS, Next.js, React, React Native e integração de serviços.
 - Atuação com autenticação JWT, controle de permissões, WebSockets, Swagger e CI/CD.
-- Interesse em backend avançado com filas assíncronas (RabbitMQ), cache com Redis e arquitetura escalável.
+- Interesse em backend avançado com filas assíncronas (RabbitMQ, BullMQ), cache com Redis e arquitetura escalável.
 
 ## Stack principal
 
@@ -25,6 +25,7 @@ Foco em desenvolvimento de APIs e aplicações web com arquitetura modular, test
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <!-- <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="BullMQ" /> -->
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Supertest-111111?style=for-the-badge" alt="Supertest" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
