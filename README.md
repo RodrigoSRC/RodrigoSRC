@@ -1,6 +1,6 @@
 # Rodrigo Simões
 
-Desenvolvedor Full Stack | JavaScript e TypeScript | Rio de Janeiro - RJ
+Desenvolvedor Full Stack | JavaScript, TypeScript, Java e Golang | Rio de Janeiro - RJ
 
 Foco em desenvolvimento de APIs e aplicações web com arquitetura modular, testes automatizados e boas práticas de engenharia de software.
 
@@ -16,6 +16,8 @@ Foco em desenvolvimento de APIs e aplicações web com arquitetura modular, test
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
